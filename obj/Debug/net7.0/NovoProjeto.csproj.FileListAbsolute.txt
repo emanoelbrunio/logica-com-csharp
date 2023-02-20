@@ -1,0 +1,15 @@
+C:\Users\bruem\Desktop\NovoProjeto\bin\Debug\net7.0\NovoProjeto.exe
+C:\Users\bruem\Desktop\NovoProjeto\bin\Debug\net7.0\NovoProjeto.deps.json
+C:\Users\bruem\Desktop\NovoProjeto\bin\Debug\net7.0\NovoProjeto.runtimeconfig.json
+C:\Users\bruem\Desktop\NovoProjeto\bin\Debug\net7.0\NovoProjeto.dll
+C:\Users\bruem\Desktop\NovoProjeto\bin\Debug\net7.0\NovoProjeto.pdb
+C:\Users\bruem\Desktop\NovoProjeto\obj\Debug\net7.0\NovoProjeto.csproj.AssemblyReference.cache
+C:\Users\bruem\Desktop\NovoProjeto\obj\Debug\net7.0\NovoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruem\Desktop\NovoProjeto\obj\Debug\net7.0\NovoProjeto.AssemblyInfoInputs.cache
+C:\Users\bruem\Desktop\NovoProjeto\obj\Debug\net7.0\NovoProjeto.AssemblyInfo.cs
+C:\Users\bruem\Desktop\NovoProjeto\obj\Debug\net7.0\NovoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\bruem\Desktop\NovoProjeto\obj\Debug\net7.0\NovoProjeto.dll
+C:\Users\bruem\Desktop\NovoProjeto\obj\Debug\net7.0\refint\NovoProjeto.dll
+C:\Users\bruem\Desktop\NovoProjeto\obj\Debug\net7.0\NovoProjeto.pdb
+C:\Users\bruem\Desktop\NovoProjeto\obj\Debug\net7.0\NovoProjeto.genruntimeconfig.cache
+C:\Users\bruem\Desktop\NovoProjeto\obj\Debug\net7.0\ref\NovoProjeto.dll
